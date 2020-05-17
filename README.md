@@ -1,3 +1,3 @@
-# CopingWithCOVID-19
+# WellNurse (Team 5)
 
-The protype can be viewed only at https://lauradeschere.github.io/index.html
+The protype can be viewed online at https://lauradeschere.github.io/index.html
